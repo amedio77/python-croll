@@ -29,7 +29,7 @@ print(html)
 '''
 conn = pymysql.connect(host='panalu.ipdisk.co.kr',
                        user='ieye',
-                       password='ieye',
+                       password='',
                        db='blog',
                        charset='utf8')
 
