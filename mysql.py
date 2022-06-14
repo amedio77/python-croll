@@ -2,7 +2,7 @@ import pymysql.cursors
 
 conn = pymysql.connect(host='amedio0222.cafe24.com',
                        user='amedio0222',
-                       password='lw11090725!',
+                       password='',
                        db='amedio0222',
                        charset='utf8')
 
